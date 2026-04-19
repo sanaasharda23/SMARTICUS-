@@ -1,7 +1,6 @@
 # SMARTICUS
 
-A Python-based interactive BuzzFeed-style quiz game built as a class project 
-at Delhi Public School, R.K.Puram, New Delhi.
+A Python-based interactive BuzzFeed-style quiz game built as a class project. 
 
 Built by: Sanaa Sharda 
 
